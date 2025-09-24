@@ -1,0 +1,4 @@
+Flask
+Flask-SQLAlchemy
+python-dotenv==1.0.0
+SQLAlchemy<2.0
