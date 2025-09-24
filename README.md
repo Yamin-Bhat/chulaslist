@@ -31,7 +31,7 @@ Ensure you have the following installed:
 1. Navigate to the project directory:
 
    ```bash
-   cd Poshpora-
+   cd chulaslist
    ```
 
 2. Run the application:
